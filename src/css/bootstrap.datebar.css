@@ -1,0 +1,24 @@
+.datebar-step {
+    position: absolute;
+    margin-top: -10px;
+    z-index: 1;
+    background: #000;
+    height: 30px;
+    width: 2px;
+}
+
+.datebar-label-date {
+    position: absolute;
+    float: right;
+    margin-left: -15px; 
+    margin-top: -15px;
+    font-size: 12px;
+}
+
+.datebar-label-percent {
+    position: absolute;
+    float: right;
+    margin-left: -10px; 
+    margin-top: 32px;
+    font-size: 12px;
+}
