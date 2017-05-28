@@ -7,6 +7,18 @@
     width: 2px;
 }
 
+.progress-bar-blank {
+    background-color: #efefef;
+}
+
+.datebar-start {
+    background: red;
+}
+
+.datebar-end {
+    background: green;
+}
+
 .datebar-label-date {
     position: absolute;
     float: right;
